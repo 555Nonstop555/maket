@@ -1,0 +1,80 @@
+main {
+	width: 100%;
+}
+.header {
+	background-color: #150869;
+	color: white;
+	width: 50%;
+	display: flex;
+	padding: 20px;
+	/*margin: 40px;*/
+
+}
+.choose {
+	display: flex;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.meal {
+	flex-basis:50px;
+}
+.pizza {
+	display: flex;
+	float: left;
+	color: white;
+	background-color: #FF4500;
+	padding: 10px;
+	margin-top: 20px;
+	
+}
+.sandwitch {
+	display: flex;
+	float: left;
+	color: white;
+	background-color: #FF4500;
+	padding: 10px;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.coke {
+	display: flex;
+	float: left;
+	color: white;
+	background-color: #FF4500;
+	padding: 10px;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.juise {
+	display: flex;
+	float: left;
+	color: white;
+	background-color: #FF4500;
+	padding: 10px;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.cake {
+	display: flex;
+	float: left;
+	color: white;
+	background-color: #FF4500;
+	padding: 10px;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+
+.footer {
+	background-color: #150869;
+	color: white;
+	width: 50%;
+	padding: 20px;
+}
+.other-meel {
+	background-color: #FF8C00;
+	color: white;
+	width: 50%;
+	padding: 20px;
+	margin-top: 20px;
+}
